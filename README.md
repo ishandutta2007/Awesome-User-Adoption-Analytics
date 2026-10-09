@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-User-Adoption-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-User-Adoption-Analytics?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-User-Adoption-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-User-Adoption-Analytics?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Adoption-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-User-Adoption-Analytics?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Adoption-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-User-Adoption-Analytics?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,7 +66,7 @@ The open-source ecosystem provides powerful self-hosted alternatives for event t
 
 ### 📈 Product & Web Analytics Platforms
 
-*Sorted by GitHub Stars (Descending)*
+*Sorted by GitHub_Stars (Descending)*
 
 - **[Umami](https://github.com/umami-software/umami)** <a href="https://github.com/umami-software/umami/stargazers"><img src="https://img.shields.io/github/stars/umami-software/umami?style=social&color=white" alt="Umami Stars"/></a>  
   ⚡ **Privacy-friendly web & product analytics**, MIT licensed. Simple, fast, non-cookie analytics with Docker support. *Best for lightweight adoption tracking.*
@@ -138,7 +138,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` following the existing format.
-3. 📌 Include the product name, official website / GitHub repo link, 1–2 sentence description, and star badge (for open-source repos).
+3. 📌 Include the product name, official website / GitHub repo link, 1–2 sentence description, and Stars_Badge (for open-source repos).
 4. 🚀 **Submit a Pull Request** with a brief summary of additions.
 
 Check out our main awesome collection at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
